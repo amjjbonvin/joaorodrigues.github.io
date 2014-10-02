@@ -5,3 +5,7 @@ tags: [Jekyll, HADDOCK, Bonvin, Docking, Simulation, Molecular Dynamics, Structu
 image:
   feature: banner_home-mini.jpg
 ---
+####Welcome to the Computational Structural Biology group@[Utrecht University](www.uu.nl).
+
+Our research focus is on dissecting, understanding and predicting biomolecular interactions at the molecular level.
+
